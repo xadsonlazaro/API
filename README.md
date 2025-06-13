@@ -20,5 +20,15 @@ Este é um projeto simples de autenticação de usuários, criado com foco em es
 - JSON Web Token (JWT)
 - dotenv
 
+
+## ⚙️ Como rodar o projeto localmente
+
+1. **Clone o repositório**  
+```bash
+git clone https://github.com/xadsonlazaro/seu-repo-aqui.git
+cd nome-do-projeto.
+
 so que tem um porèm o site tà sem a parte front-en. mais a ideia era apresentar a API. 
 Espero que gostem🫡.
+
+
